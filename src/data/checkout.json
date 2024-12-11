@@ -1,0 +1,45 @@
+[
+    {
+        "email":null,
+        "items":[
+            null
+        ],
+        "total_price":null,
+        "id":null,
+        "address":null,
+        "payment":null,
+        "status":null
+    },
+    {
+        "email":"ersa@gmail.com",
+        "items":[
+            {
+                "name":"Banana",
+                "price":20000,
+                "quantity":10,
+                "total":200000
+            }
+        ],
+        "total_price":200000.0,
+        "id":"ZE0lPC6yoC",
+        "address":"jakarta barat indonesia",
+        "payment":"Credit-Cart",
+        "status":"success"
+    },
+    {
+        "email":"ersa@gmail.com",
+        "items":[
+            {
+                "name":"Banana",
+                "price":20000,
+                "quantity":20,
+                "total":400000
+            }
+        ],
+        "total_price":400000.0,
+        "id":"tuxr79tvkY",
+        "address":"jakarta barat indonesia",
+        "payment":"Cash-on-Delivery",
+        "status":"success"
+    }
+]
