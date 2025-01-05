@@ -6,5 +6,17 @@
     {
         "email":"ersa@gmail.com",
         "password":"ridho"
+    },
+    {
+        "email":"abc.@gmail.com",
+        "password":"12345678"
+    },
+    {
+        "email":"oke211@gmail.com",
+        "password":"oke123"
+    },
+    {
+        "email":"win.kurniadi@gmail.com",
+        "password":"tes"
     }
 ]
